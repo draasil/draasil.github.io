@@ -3,6 +3,7 @@
 <script>
     
     let clicks = 0;
+    
     let background_color
     function clicked() {
         clicks+= 0.1;
