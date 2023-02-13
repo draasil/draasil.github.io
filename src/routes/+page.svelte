@@ -1,7 +1,7 @@
 <h1>
-  Välkommen till min hemsida!
+  tjabba
 </h1>
 
-<h2>Här har jag samlat min uppgifter jag gjort i samband med webbutveckling i årskurs 2 på Maja Beskowgymnasiet!</h2>
+<h2>testa mina tvär mid grejer</h2>
 
 <h3>yo whatup a</h3>

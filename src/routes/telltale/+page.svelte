@@ -95,6 +95,10 @@
     overflow-x: hidden;
   }
 
-
+  .bakgrund {
+        background-image: url(bagra.jpg);
+        background-size: cover;
+        height: 100vh;
+    }
 
 </style>

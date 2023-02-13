@@ -1,5 +1,11 @@
 export let stories = [
-     {id:"1",message: "The greatest story ever.", img:"wave.jpeg",choices:[{id:"2",text:"Begin"}]},
-    {id:"2",message: "What will be your path?", img:"choice.jpeg",choices:[{id:"3",text:"Left"},{id:"4",text:"Right"}]},
-     {id:"3",message: "Wrong! Try again!", img:"choice.jpeg",choices:[{id:"4",text:"Other right"},{id:"4",text:"Right"}]},
-     {id:"4",message: "🤣🤣🤣🤣🤣", html: '<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="360" src="https://giphy.com/embed/uhYPkjP03h9RvVdazZ/video" width="480"></iframe></div>',choices:[{id:"1",text:"Reset!"}]} ]
+     {id:"1",message: "sunk story.", img:"trollk.webp",choices:[{id:"2",text:"Begin"}]},
+    {id:"2",message: "draken pulla upp", img:"bigd.jpg",choices:[{id:"3",text:"kubba"},{id:"11",text:"fajta"}]},
+     {id:"3",message: "du kubba hem igen", img:"kubba.gif",choices:[{id:"5",text:"vänd om o fajta"},{id:"6",text:"dra hem på riktigt"}]},
+     {id:"4",message: "ez du vann", img:"ez.jpg",choices:[{id:"7",text:"mörda den"},{id:"8",text:"låt han leva o va homies"}]},
+     {id:"5",message: "han drog", img:"tomt.webp",choices:[{id:"6",text:"dra hem"}]},
+     {id:"6",message: "hemma nu", img:"hemma.jpg",choices:[{id:"1",text:"groundhog day"}]},
+     {id:"7",message: "najs", img:"draga.avif",choices:[{id:"6",text:"dra hem"}]},
+     {id:"11",message: "stor fajt du känner dig as cool", img:"bfy.jpg",choices:[{id:"4",text:"pwna"}]},
+     {id:"8",message: "chill", img:"chill.avif",choices:[{id:"6",text:"dra hem"}]}]
+     
